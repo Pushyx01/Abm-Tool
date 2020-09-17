@@ -3,6 +3,6 @@
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/Tech-abm">Abdul Basit Minhas</a>
+  Made with ❤️ by <a href="https://github.com/Tech-abm">Tech-Abm</a>
 
 
