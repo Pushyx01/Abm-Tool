@@ -7,7 +7,7 @@
 
 ![Screenshot_20200918-011414.png](https://user-images.githubusercontent.com/52023076/93523329-bff72380-f8e7-11ea-98de-94ebc54b0141.png)
  
- # Install 📎
+ # Install 
   ```
   apt update && apt upgrade 
   
@@ -20,7 +20,7 @@
   git clone https://github.com/Tech-abm/Abm-Tool
   ```
   
-  # Run 📎
+  # Run 
   ```
   cd Abm-Tool
   
