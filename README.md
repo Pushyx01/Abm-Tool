@@ -24,7 +24,7 @@
   ```
   cd Abm-Tool
   
-  python2 Cloning-tool.py
+  python2 Dark-Cloning.py
   ```
   
 
