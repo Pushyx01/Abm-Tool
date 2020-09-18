@@ -23,8 +23,10 @@
   # Run 
   ```
   cd Abm-Tool
+
+ls
   
-  python2 Dark-Cloning.py
+  python2 Cloning-tool.py
   ```
   
 
