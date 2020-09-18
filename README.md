@@ -17,11 +17,13 @@
   
   apt install pip2
   
-  git clone https://github.com/Tech-abm/Abm-Tool
+  
   ```
   
   # Run 
   ```
+  git clone https://github.com/Tech-abm/Abm-Tool
+  
   cd Abm-Tool
 
 ls
