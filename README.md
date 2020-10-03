@@ -5,7 +5,7 @@
 <p align="center">
   Made with ❤️ by <a href="https://github.com/Tech-abm">Tech-Abm</a>
 
-![Screenshot_20200918-011414.png](https://user-images.githubusercontent.com/52023076/93523329-bff72380-f8e7-11ea-98de-94ebc54b0141.png)
+![Screenshot_20201003-104835.png](https://user-images.githubusercontent.com/52023076/94984517-aa961200-0501-11eb-84a9-096e5bb47c93.png)
  
  # Install 
   ```
