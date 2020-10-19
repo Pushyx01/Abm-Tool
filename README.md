@@ -32,5 +32,4 @@
   Password : Abm
   
   ```
-  ![Screenshot_20201003-104853.png](https://user-images.githubusercontent.com/52023076/94984534-d74a2980-0501-11eb-96de-a2757efe964c.png)
-
+  
