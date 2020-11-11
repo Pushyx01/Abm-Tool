@@ -10,26 +10,11 @@
  # Install 
   ```
   apt update && apt upgrade 
-  
-  apt install git 
-  
-  apt install python2 
-  
-  apt install pip2
-  
+  apt install python2 -y
+  apt install git -y
   git clone https://github.com/Tech-abm/Abm-Tool
-  
-  cd Abm-Tool
-  
-  pip2 install requests
-  
-  pip2 install mechanize
-  
-  python2 Cloning-tool.py
-  
-  username : Abm
-  
-  Password : Abm
-  
+  cd Abm-Tool 
+  python2 Cloning-tool.py 
   ```
+ 
   
