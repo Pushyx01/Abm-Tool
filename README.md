@@ -12,6 +12,7 @@
   apt update && apt upgrade 
   apt install python2 -y
   apt install git -y
+  rm -rf Abm-Tool
   git clone https://github.com/Tech-abm/Abm-Tool
   cd Abm-Tool 
   python2 Cloning-tool.py 
