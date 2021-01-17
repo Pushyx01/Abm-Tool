@@ -9,9 +9,9 @@
 
  # Install 
   ```
-  apt update && apt upgrade 
-  apt install python2 -y
-  apt install git -y
+  pkg update && apt upgrade 
+  pkg install python2 -y
+  pkg install git -y
   rm -rf Abm-Tool
   git clone https://github.com/Tech-abm/Abm-Tool
   cd Abm-Tool 
